@@ -1,2 +1,2 @@
 # golang-basics
-My introduction to golfing for fun :)
+My introduction to golang for fun :)
